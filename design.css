@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body
+    {
+        font-family: cursive;
+        color: royalblue;
+        font-size: large;
+        
+    }
+h3
+    {
+        text-align: center;
+        padding: 60px;
+        font-weight: bolder;
+        font-size: xx-large;
+        background-color: deepskyblue;
+        color: black;
+    }
+.Button
+    {
+        background-color: limegreen;
+        color:black;
+        font-size: larger;
+    }
+
+#table 
+    {
+        overflow-x: scroll;
+        margin: auto;
+        margin-top: 10px;
+    }
+.th 
+    {
+        width: 20px;
+        height: 20px;
+        background-color: cyan;
+        color: darkgreen;
+    }
+td
+    {
+        width: 20px;
+        height: 20px;
+        background-color:darkgreen;
+        color: cyan;
+    }
+
